@@ -1,24 +1,10 @@
-# Hi there 👋
-
-**AzizulBSc/AzizulBSc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on web development by PHP, Lravel, Js, Reactjs.
-- 🌱 I’m currently learning nodejs, datascience,ML,OpenCV
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<h2 align="center"> Hi 👋 , I'm Md. Fahim Bin Amin <br/></h2> 
-<h3 align="center">Also known as "FBA" to other people. <br> <br>
-  <a href="https://github.com/FahimFBA" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/FahimFBA?label=Github%20followers&style=for-the-badge">
+<h2 align="center"> Hi 👋 , I'm Md. Azizul Hoque <br/></h2> 
+<h3 align="center">Software Engineer<br> <br>
+  <a href="https://github.com/AzizulBSc/" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/AzizulBSc?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
-  <a href="https://github.com/FahimFBA" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=FahimFBA&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+  <a href="https://github.com/AzizulBSc" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=AzizulBSc&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3> 
       
@@ -26,8 +12,8 @@ Here are some ideas to get you started:
      
 <div align="center">
 
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/AzizulBSc/AzizulBSc/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/AzizulBSc/AzizulBSc/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
@@ -72,14 +58,11 @@ Technologies and Languages </h2>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![dJango](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
@@ -87,27 +70,6 @@ Technologies and Languages </h2>
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white) 
 <h3> + many more! </h3>
-
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-<h2 align="center">
-My Current Workstation Specification </h2>
-
-<div align="center">
-	
-
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3500X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-<br> 
-	
-![GPU](https://img.shields.io/badge/AMD-Radeon_RX_550-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
-
-
-
-</div>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <div align="center">
   
 
@@ -164,31 +126,3 @@ My Current Workstation Specification </h2>
 :star: [UVa](http://onlinejudge.org/)<br>
 :star: [CodeMarshal](https://algo.codemarshal.org/users/FahimFBA) <br>
 <i>Many more are coming soon...</i> :clap: </div> </details>
-	
-	
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-<div align="center">
-	
-
-![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&layout=compact&theme=synthwave&v=2)
-
-
-</div>
-
-
-<p align="center">
-
-<a href="https://github.com/FahimFBA/github-readme-twitter">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
-</a>
-
-</p>
-
-
-
-------
-Credit: [FahimFBA](https://github.com/FahimFBA)
-Last Edited on: 01/09/2021
