@@ -114,7 +114,7 @@ Technologies and Languages </h2>
 :star: [Toph](https://toph.co/u/FahimFBA) <br>
 :star: [HackerRank](https://www.hackerrank.com/FahimFBA) <br>
 :star: [HackerEarth](https://www.hackerearth.com/@md.fahim3) <br>
-:star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/436965) <br>
+:star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/218822) <br>
 :star: [Dimik OJ](https://dimikoj.com/) <br>
 :star: [Codechef](https://www.codechef.com/users/fahimfba)  <br>
 :star: [CodingBat](https://codingbat.com/) <br>
