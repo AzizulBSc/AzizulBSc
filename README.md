@@ -8,17 +8,7 @@
   </a>
   </h3> 
       
-               
-     
-<div align="center">
-[![](https://raw.githubusercontent.com/AzizulBSc/AzizulBSc/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/AzizulBSc/AzizulBSc/master/profile-summary-card-output/dracula/1-repos-per-language.svg)]
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-</div>
-
-<h2 align="center">
+ <h2 align="center">
 Technologies and Languages </h2>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
