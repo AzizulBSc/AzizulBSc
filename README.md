@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer<br> <br>
   <a href="https://github.com/AzizulBSc/" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/AzizulBSc?label=Github%20followers&style=for-the-badge">
-  </a> <br> <br>
+  </a><br><br>
   <a href="https://github.com/AzizulBSc" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=AzizulBSc&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
@@ -11,9 +11,8 @@
                
      
 <div align="center">
-
 [![](https://raw.githubusercontent.com/AzizulBSc/AzizulBSc/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/AzizulBSc/AzizulBSc/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/AzizulBSc/AzizulBSc/master/profile-summary-card-output/dracula/1-repos-per-language.svg)]
 [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
