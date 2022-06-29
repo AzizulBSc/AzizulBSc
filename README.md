@@ -1,4 +1,5 @@
-<h2 align="center"> Hi 👋 , I'm Md. Azizul Hoque <br/></h2> 
+<div align="center"><img align="center" a href='https://archiveprogram.github.com/'><img src='https://lh3.googleusercontent.com/v7YNoo2ieOdpBBQo00BddNA3Di_Ik2zmzmCrT2Q8LEzjsaencmKV7KTGT_OXrr-xwrcBmgc7BPcWfGDY=s220-rw' width='100' height='100'></a>
+<h2 align="center"> Hi 👋 , I am AZIZUL HOQUE <br/></h2> 
 <h3 align="center">Software Engineer<br> <br>
   <a href="https://github.com/AzizulBSc/" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/AzizulBSc?label=Github%20followers&style=for-the-badge">
@@ -53,9 +54,6 @@ Technologies and Languages </h2>
 <div align="center">
   
 
-
-  
-  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://lh3.googleusercontent.com/v7YNoo2ieOdpBBQo00BddNA3Di_Ik2zmzmCrT2Q8LEzjsaencmKV7KTGT_OXrr-xwrcBmgc7BPcWfGDY=s220-rw' width='40' height='40'></a>
 
  ### ⚡ Fun fact about me: ✨ I love coding+learning+repeating✨ 
  
