@@ -55,7 +55,7 @@ Technologies and Languages </h2>
 
 
   
-  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://lh3.googleusercontent.com/v7YNoo2ieOdpBBQo00BddNA3Di_Ik2zmzmCrT2Q8LEzjsaencmKV7KTGT_OXrr-xwrcBmgc7BPcWfGDY=s220-rw' width='40' height='40'></a>
 
  ### ⚡ Fun fact about me: ✨ I love coding+learning+repeating✨ 
  
