@@ -73,23 +73,13 @@ Technologies and Languages </h2>
 <br> <br>
 🌟 STAR THE REPOS IF YOU LIKE 🌟
 
-
-
-
-
 </div>
 
 
 
-
-
-
-
-
-
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<details><summary> :snowflake: Do you want to check my profile of CP related various Online Judges? Click here! 📈:</summary>
+
+ <summary> :snowflake: Do you want to check my profile of CP related various Online Judges? Please check below link:</summary>
 <div align="center">
 :star: [Codeforces](https://codeforces.com/profile/azizulh8774)<br>
 :star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/218822)<br>
@@ -105,5 +95,5 @@ Technologies and Languages </h2>
 :star: [LightOJ](http://lightoj.com/) <br>
 :star: [Timus](https://acm.timus.ru/author.aspx?id=302862)<br>
 :star: [AMT](http://orac.amt.edu.au/)<br>
-:star: [CodeMarshal](https://algo.codemarshal.org/users/FahimFBA) <br> -->
-<i>Many more are coming soon...</i> :clap: </div> </details>
+:star: [CodeMarshal](https://algo.codemarshal.org/users/FahimFBA) <br> <details></details> -->
+<i>Many more are coming soon...</i> :clap: </div> 
