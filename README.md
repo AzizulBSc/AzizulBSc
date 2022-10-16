@@ -16,7 +16,8 @@ Technologies and Languages </h2>
 ![c](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![LARAVEL](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+[![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel&link=https://github.com/AzizulBSc)](https://github.com/AzizulBSc)
+[![MySql](https://img.shields.io/badge/-MySql-d1e5e9?style=flat-square&logo=mysql&link=https://github.com/AzizulBSc)](https://github.com/AzizulBSc)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
@@ -30,7 +31,6 @@ Technologies and Languages </h2>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![MarkDown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
