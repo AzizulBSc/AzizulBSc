@@ -93,17 +93,17 @@ Technologies and Languages </h2>
 <div align="center">
 :star: [Codeforces](https://codeforces.com/profile/azizulh8774)<br>
 :star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/218822)<br>
+:star: [Codechef](https://www.codechef.com/users/azizul_h)<br>
+:star: [HackerRank](https://www.hackerrank.com/azizulh8774) <br>
+:star: [Leetcode](https://leetcode.com/azizulh8774) <br>
+:star: [UVa](http://onlinejudge.org/Azizul Hoque)<br>
 <!-- :star: [Toph](https://toph.co/u/FahimFBA) <br>
-:star: [HackerRank](https://www.hackerrank.com/FahimFBA) <br>
 :star: [HackerEarth](https://www.hackerearth.com/@md.fahim3) <br>
-:star: [Dimik OJ](https://dimikoj.com/) <br>
-:star: [Codechef](https://www.codechef.com/users/fahimfba)  <br>
+:star: [Dimik OJ](https://dimikoj.com/)  <br>
 :star: [CodingBat](https://codingbat.com/) <br>
-:star: [Leetcode](https://leetcode.com/FBA/) <br>
 :star: [SPOJ](https://www.spoj.com/users/fahimfba/) <br>
 :star: [LightOJ](http://lightoj.com/) <br>
 :star: [Timus](https://acm.timus.ru/author.aspx?id=302862)<br>
 :star: [AMT](http://orac.amt.edu.au/)<br>
-:star: [UVa](http://onlinejudge.org/)<br>
 :star: [CodeMarshal](https://algo.codemarshal.org/users/FahimFBA) <br> -->
 <i>Many more are coming soon...</i> :clap: </div> </details>
