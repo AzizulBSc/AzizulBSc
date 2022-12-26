@@ -33,7 +33,16 @@ Technologies and Languages </h2>
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-
+![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=C%2B%2B&logoColor=00599C)
+[![CSharp](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-605d69?style=flat-square&logo=microsoft-sql-server&link=https://github.com/kkoziarski)
+<br/>
+[![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react&link=https://github.com/joynalam67598)](https://github.com/joynalam67598) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
+[![MaterialUi](https://img.shields.io/badge/-MaterialUI-blue?style=flat-square&logo=materialui&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
+<br/>
+[![Php](https://img.shields.io/badge/-PHP-gray?style=flat-square&logo=php&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
+<br/>
 <!-- 
 
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)
